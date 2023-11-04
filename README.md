@@ -17,3 +17,6 @@ npm run dev
 ```console
 npm run dev
 ```
+
+## Ejemplos creados
+[Functional Update](https://github.com/victorparedes/react-examples/tree/main/src/screens/functionalUpdate)
